@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="69" height="69" viewBox="0 0 69 69">
+  <g id="Group_125296" data-name="Group 125296" transform="translate(-21753 -20278.695)">
+    <circle id="Ellipse_912" data-name="Ellipse 912" cx="34.5" cy="34.5" r="34.5" transform="translate(21753 20278.695)" fill="#f9f9f9"/>
+    <rect id="Rectangle_48075" data-name="Rectangle 48075" width="30" height="30" transform="translate(21773 20298.695)" fill="#f9f9f9"/>
+    <g id="Connect_With_Ease" data-name="Connect With Ease" transform="translate(27831 8015.695)">
+      <rect id="Rectangle_48024" data-name="Rectangle 48024" width="30" height="30" transform="translate(-6058 12283)" fill="none"/>
+      <g id="connect-svgrepo-com" transform="translate(-6058 12287.038)">
+        <path id="Path_288290" data-name="Path 288290" d="M16.545,10.364A1.364,1.364,0,0,0,15.182,9H14.5a7.5,7.5,0,0,0,0,15h6.818A7.5,7.5,0,0,0,23.463,9.311,1.177,1.177,0,0,0,22,10.523v.071a1.7,1.7,0,0,0,1.138,1.493,4.774,4.774,0,0,1-1.82,9.186H14.5a4.773,4.773,0,0,1,0-9.545h.682A1.364,1.364,0,0,0,16.545,10.364Z" transform="translate(1.182 -2.182)" fill="#0f0f0f"/>
+        <path id="Path_288291" data-name="Path 288291" d="M15.318,4a7.5,7.5,0,1,1,0,15h-.682a1.364,1.364,0,0,1,0-2.727h.682a4.773,4.773,0,1,0,0-9.545H8.5a4.774,4.774,0,0,0-1.82,9.186,1.7,1.7,0,0,1,1.138,1.493v.07a1.178,1.178,0,0,1-1.463,1.211A7.5,7.5,0,0,1,8.5,4Z" transform="translate(-1 -4)" fill="#0f0f0f"/>
+      </g>
+    </g>
+  </g>
+</svg>
